@@ -2,3 +2,18 @@ server/jobs.json
 server/node_modules
 server/.nyc_output/
 ui/node_modules
+ui/.pnp
+ui/.pnp.js
+ui/coverage
+ui/build
+
+# misc
+ui/.DS_Store
+ui/.env.local
+ui/.env.development.local
+ui/.env.test.local
+ui/.env.production.local
+
+ui/npm-debug.log*
+ui/yarn-debug.log*
+ui/yarn-error.log*
